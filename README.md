@@ -14,7 +14,7 @@ In case the user chooses a wrong answer, the right answer will be highlighted in
 After completing the quiz, a total score will be displayed providing a metric of how well you've done, and an option to go again.
 If you decide to go again, you'll be prompted to the questions in different order and the answers will be in a different order as well, that way you won't be able to memorise the questions' order nor their answers.
 
-## Example usage:
+## Modification:
 If you wish to change or add questions and their answers, simply change the value of the questions and the answers inside the "const questions" in the JS file, and voila!
 
 Example snippet:
