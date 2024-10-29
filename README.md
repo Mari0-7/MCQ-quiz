@@ -4,9 +4,9 @@ A website to make a simple MCQ quiz.
 You can try it [here](https://mcqquiz-test-1b1ab1.netlify.app/).
 
 ## Key Features:
-### 1.Quiz app with a simple layout
-### 2.Randomises questions and answers each time you access the site
-### 3.A tally of your score and an option to go again at the end.
+### 1. Quiz app with a simple layout
+### 2. Randomises questions and answers each time you access the site
+### 3. A tally of your score and an option to go again at the end.
 
 ## How to use:
 The website prompts a question that's randomly chosen from a number of questions, and then provides 4 answers with 1 of them being the correct one highlighted in green.
